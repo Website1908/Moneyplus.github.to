@@ -1,5 +1,6 @@
 # Moneyplus.github.to
-The Sparks Foundation Internship Project : Basic Banking System-Money Plus.          
+The Sparks Foundation Internship Project : Basic Banking System-Money Plus.                       
+Made By-Aditi Churad                                                              
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
 
 
